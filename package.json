@@ -8,8 +8,8 @@
     "start": "node server.js",
     "build": "webpack"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Yuren Ju <yurenju@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@atom/teletype-client": "^0.38.4",
     "@atom/teletype-crdt": "^0.9.0",
